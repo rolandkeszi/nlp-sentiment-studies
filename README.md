@@ -87,3 +87,7 @@ User name columns are dropped at load time. Every `@handle` is replaced with `@u
 - Maas, A. L., et al. (2011). Learning word vectors for sentiment analysis. *ACL*.
 - Hutto, C. J., & Gilbert, E. (2014). VADER: a parsimonious rule-based model for sentiment analysis of social media text. *ICWSM*.
 - Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. *Neural Computation*.
+
+## License
+
+© 2026 Roland Keszi. This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): you may share and adapt it for non-commercial purposes, provided you credit the author (Roland Keszi) and link to this repository. Third-party datasets keep their own licenses. See [`LICENSE`](LICENSE).
