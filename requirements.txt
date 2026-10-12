@@ -1,0 +1,8 @@
+tensorflow>=2.16
+nltk>=3.9
+spacy>=3.7
+scikit-learn>=1.4
+pandas>=2.2
+matplotlib>=3.8
+wordcloud>=1.9
+jupyter
